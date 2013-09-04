@@ -20,9 +20,8 @@
 2. 載入 jQuery 到你的網站
 3. 從 CDN 載入 jQuery 到你的網站 (Google, Microsoft, cdnjs …)
 4. 用 Chrome Dev Tools 實際操作與練習 jQuery
-5. DOM selector without jQuery
-6. DOM selector with jQuery
-7. DOM 操作 (新增/修改)
-8. DOM 綁定事件
-9. jQuery 操作 CSS
-10. AJAX with jQuery 
+5. Compare DOM selector with/without jQuery
+6. DOM 操作 (新增/修改)
+7. DOM 綁定事件
+8. jQuery 操作 CSS
+9. AJAX with jQuery 
