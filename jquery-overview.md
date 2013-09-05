@@ -16,12 +16,14 @@
 
 ## 課程大綱
 
-1. jQuery 介紹
-2. 載入 jQuery 到你的網站
-3. 從 CDN 載入 jQuery 到你的網站 (Google, Microsoft, cdnjs …)
-4. 用 Chrome Dev Tools 實際操作與練習 jQuery
+1. 認識 jQuery
+2. 為你的網站加入 jQuery
+3. 認識並使用 CDN 的 jQuery (Google, Microsoft, cdnjs)
+4. 使用 Chrome Dev Tools 來學習 jQuery
 5. Compare DOM selector with/without jQuery
-6. DOM 操作 (新增/修改)
-7. DOM 綁定事件
-8. jQuery 操作 CSS
-9. AJAX with jQuery 
+6. jQuery API Documentation
+7. 準備好開始 $(document).ready()
+8. Manipulating Elements 操作1 val(), html(), width()
+9. Events 事件處理
+10. Animate(show, hide, fadeIn, fadeOut)
+11. AJAX with jQuery
